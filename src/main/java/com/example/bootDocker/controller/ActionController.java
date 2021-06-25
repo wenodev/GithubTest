@@ -8,7 +8,7 @@ public class ActionController {
 
     @GetMapping("/action")
     public String helloAction(){
-        return "Hello Action!";
+        return "Hello, Action!";
     }
 
 }
