@@ -10,5 +10,5 @@ public class ActionController {
     public String helloAction(){
         return "Hello Action!";
     }
-    
+
 }
